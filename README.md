@@ -3,10 +3,13 @@
 __Power BI | Healthcare Data Analytics__
 
 #1️⃣ __Executive Summary__
+
 __Business Problem__
+
 Healthcare providers need visibility into how billing, treatment costs, insurance coverage, and patient services vary across departments, procedures, and locations. Without a centralized dashboard, decision-makers struggle to track financial performance and patient service patterns.
 
 __Solution__
+
 This Power BI dashboard brings together patient visits, diagnoses, procedures, insurance, and cost data into a single interactive report that allows users to analyze healthcare performance by city, department, diagnosis, and service type.
 
 __Business Impact__
@@ -17,6 +20,7 @@ __Business Impact__
 This helps hospital management understand revenue drivers, cost structure, and patient service utilization.
 
 #2️⃣ __Business Problem__
+
 Hospitals manage thousands of patient visits across different medical departments and services. Each visit involves multiple financial components such as treatment cost, medication, insurance claims, and room charges. Without analytics, it is difficult to:
 * Compare department-wise performance
 * Understand which procedures generate the most revenue
@@ -25,6 +29,7 @@ Hospitals manage thousands of patient visits across different medical department
 This dashboard was created to solve these challenges.
 
 #3️⃣ __Methodology__
+
 This project was built entirely in Power BI using a structured data model and DAX measures.
 
 __Data Modeling__
@@ -84,4 +89,5 @@ Data model diagram
 👤 Author
 
 Maksud-Ur-Rashid
+
 Data Analyst | Power BI | Excel | SQL | Python
