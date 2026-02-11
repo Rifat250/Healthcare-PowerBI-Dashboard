@@ -81,10 +81,9 @@ __Analytics__
 * Use geographic insights to plan staffing and hospital capacity
 
 📂 __Files__
-
-Power BI file (.pbix)
-Dashboard screenshots
-Data model diagram
+* Power BI file (.pbix)
+* Dashboard screenshots
+* Data model diagram
 
 👤 Author
 
